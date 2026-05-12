@@ -1,3 +1,10 @@
-# hallo anayée lo99r
-**anayée kana tlokua 3ah?**<br>
-anayaz mardalaz t-CDM tamaril;
+# 레몬코림 입니다아앗!~
+https://discord.gg/xdDhw7c4SN
+안녕하세요. 여기는 오픈소스 커뮤니티인 레몬코림입니다. 여기는 여러가지 오픈소스 프로젝트에 참여할 수 있고 직접 만들 수 있습니다. C, Python등 여러가지 언어도 3됩니다.
+## 지향
+개발을 좋아하는
+
+## 지양
+백도어
+욕설
+단순 비난
